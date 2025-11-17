@@ -26,7 +26,7 @@ const throwError = ():never =>{
 throw new Error("No Return");
 }
 
-### Question 3: Provide an example of using union and intersection types in TypeScript.
+### Question 5: Provide an example of using union and intersection types in TypeScript.
 
 #### Union Type :
 
